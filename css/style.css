@@ -21,7 +21,12 @@ body{
   color: black;
   border-radius: 70px;
 }
-
+.Projects ul,li ,a {
+  text-decoration: none;
+}
 h2 {
   text-align: center;
+}
+img{
+  padding-left: 15%;
 }
