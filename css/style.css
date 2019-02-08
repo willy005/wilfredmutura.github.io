@@ -3,7 +3,6 @@ body{
   background-size:cover ;
   background-repeat: ;
   background-attachment: fixed;
-  /* opacity: 0.5; */
 }
 .start{
   background-image: url("../image/smoky.jpg");
@@ -12,23 +11,17 @@ body{
   text-align: center;
   color: green;
   padding-top: 10px;
-  /* opacity:10; */
   font-family: fantasy;
+  opacity: ;
 }
 
 .projects{
   float: right;
   width: 50%;
-
+  color: black;
+  border-radius: 70px;
 }
 
-ul{
-  background-color: black;
-  color: white;
-  border-radius: 100px;
-
-
-}
-p{
-  color:black;
+h2 {
+  text-align: center;
 }
