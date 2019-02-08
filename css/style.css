@@ -1,7 +1,34 @@
-h1{
-  background: ;
-  color: ;
+body{
+  /* background-image: url("../image/milky.jpg"); */
+  background-size:cover ;
+  background-repeat: ;
+  background-attachment: fixed;
+  /* opacity: 0.5; */
+}
+.start{
+  background-image: url("../image/smoky.jpg");
+  border-radius: 50px;
+  height: 70px;
   text-align: center;
-  font-style: oblique;
-  font-weight: bolder;
+  color: green;
+  padding-top: 10px;
+  /* opacity:10; */
+  font-family: fantasy;
+}
+
+.projects{
+  float: right;
+  width: 50%;
+
+}
+
+ul{
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+
+
+}
+p{
+  color:black;
 }
