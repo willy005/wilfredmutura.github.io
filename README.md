@@ -3,7 +3,7 @@ My first Independent Project!
 This project was created by Wilfred Mutura on friday 8 february 2019.
 
 Description
-The website gives an information about Me,that is my hobbies and likes.
+The website gives an information about Me,that is my hobbies and likes.The website also gives a picture of my current state in the coding boot-camp.
 The website is valid from "friday 8 February 2019".
 
 Technologies Used
