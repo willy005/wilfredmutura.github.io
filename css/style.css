@@ -1,8 +1,9 @@
 body{
-  /* background-image: url("../image/milky.jpg"); */
-  background-size:cover ;
-  background-repeat: ;
-  background-attachment: fixed;
+  /* background-image: url("../image/tile.jpg"); */
+  /* background-size:cover ;
+  background-attachment: fixed; */
+  word-spacing: 0.9px;
+  line-height:18px;
 }
 .start{
   background-image: url("../image/smoky.jpg");
@@ -12,7 +13,6 @@ body{
   color: green;
   padding-top: 10px;
   font-family: fantasy;
-  opacity: ;
 }
 
 .projects{
@@ -22,16 +22,24 @@ body{
   border-radius: 70px;
   clear: both;
 }
-/* .Projects ul,li ,a {
-  text-decoration: none;
-  color
-} */
+.projects h3 {
+  color: crimson;
+}
+.Evening{
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+.Readmore{
+  color:blue;
+}
+
 h2 {
   text-align: center;
 }
 img{
   padding-left: 15%;
-  padding-bottom: 4%;
+  padding-bottom: 5%;
 }
 
 .projects a {
