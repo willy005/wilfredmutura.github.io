@@ -5,6 +5,7 @@ body{
   word-spacing: 0.9px;
   line-height:18px;
 }
+
 .start{
   background-image: url("../image/smoky.jpg");
   border-radius: 50px;
@@ -22,14 +23,17 @@ body{
   border-radius: 70px;
   clear: both;
 }
+
 .projects h3 {
   color: crimson;
 }
+
 .Evening{
   color: green;
   font-style: italic;
   font-weight: bold;
 }
+
 .Readmore{
   color:blue;
 }
@@ -37,6 +41,7 @@ body{
 h2 {
   text-align: center;
 }
+
 img{
   padding-left: 15%;
   padding-bottom: 5%;
