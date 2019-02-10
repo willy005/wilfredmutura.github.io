@@ -7,5 +7,4 @@ The website is valid from "friday 8 February 2019".
 
 No technology has been used except for basic languages that is Html,and Css .
 
-Support and contact details
 In case of any questions or feedback contact me via my email: nillyw31@gmail.com
