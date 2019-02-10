@@ -10,4 +10,4 @@ Technologies Used
 No technology has been used except for basic languages that is Html,and Css .
 
 Support and contact details
-In case of any questions or feedback contact me via my email:nillyw31@gmail.com
+In case of any questions or feedback contact me via my email: nillyw31@gmail.com
