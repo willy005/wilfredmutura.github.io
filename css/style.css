@@ -55,3 +55,13 @@ img{
 .MyBio{
   margin-left: 1%;
 }
+
+.MyHobbies{
+  text-align: center;
+}
+
+.ul{
+  text-decoration: none;
+  color: inherit;
+  list-style: none;
+}
